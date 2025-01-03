@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0%;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+     justify-content: center;
+    display: flex;
+    position: relative;
+
+}       
+.nav{
+    position: absolute;
+    margin:  0%;
+    padding: 15px 48.35%;
+    background-color: rgba(0, 0, 0, .5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+
+
+}
+   
+.cosmosImg{
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
+.cosmos{
+    position: absolute;
+    margin: 10%;
+    font-size: 300px;
+    color: aliceblue;
+}
+
+.cosmosInfo{
+    position: absolute;
+    color: aliceblue;
+    display: flex;
+    margin-top: 30%;
+    justify-content: space-between;
+    text-decoration: underline;
+}
+.cosmosInfo li{
+    margin: 10px 60px 0 60px;
+    font-size: xx-large;
+}
+.galaxy{
+    height: 100vh;
+    width: 100%;
+    display:block;
+    color: aliceblue;
+    background-color: #000;
+
+
+}
+
+.galaxy h1{
+    text-align: center;
+    padding: 70px;
+    font-size: 120px;
+}
+.galaxy div{
+    display: flex;
+}
+
+.galaxy article{
+
+    margin: 10vh 25vh 0 9vh;
+    width: 50%;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+.galaxyImg{
+    object-fit: cover;
+    width: 30%;
+    height: 30%;
+    margin-right: 15vh;
+    box-shadow:  0 4px 8px 0 rgba(230, 224, 224, 0.2), 0 6px 20px 0 rgba(228, 221, 221, 0.19);
+    border-radius: 10px;
+    
+}
+
+.blackHole{
+    height: 100vh;
+    width: 100%;
+    display:block;
+    color: black;
+    background-color: rgb(116, 114, 114);
+
+
+}
+
+.blackHole h1{
+    text-align: center;
+    padding: 70px;
+    font-size: 120px;
+}
+.blackHole div{
+    display: flex;
+}
+
+.blackHole article{
+
+    margin: 10vh 25vh 0 9vh;
+    width: 50%;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+.blackHoleImg{
+    object-fit: cover;
+    width: 30%;
+    height: 30%;
+    margin-right: 15vh;
+    box-shadow:  0 4px 8px 0 rgba(10, 10, 10, 0.2), 0 6px 20px 0 rgba(19, 19, 19, 0.19);
+    border-radius: 10px;
+    
+}
