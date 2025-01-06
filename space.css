@@ -126,3 +126,111 @@ a{
     border-radius: 10px;
     
 }
+.Planates{
+    height: 100vh;
+    width: 100%;
+    display:block;
+    color: white;
+    background-color: black;
+
+
+}
+
+.Planates h1{
+    text-align: center;
+    padding: 70px;
+    font-size: 120px;
+}
+.Planates div{
+    display: flex;
+}
+
+.Planates article{
+
+    margin: 10vh 25vh 0 9vh;
+    width: 50%;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+.PlanatesImg{
+    object-fit: cover;
+    width: 30%;
+    height: 30%;
+    margin-right: 15vh;
+    box-shadow:  0 4px 8px 0 rgba(10, 10, 10, 0.2), 0 6px 20px 0 rgba(19, 19, 19, 0.19);
+    border-radius: 10px;
+    
+}
+.Moon{
+    height: 100vh;
+    width: 100%;
+    display:block;
+    color: black;
+    background-color: rgb(116, 114, 114);
+
+
+}
+
+.Moon h1{
+    text-align: center;
+    padding: 70px;
+    font-size: 120px;
+}
+.Moon div{
+    display: flex;
+}
+
+.Moon article{
+
+    margin: 10vh 25vh 0 9vh;
+    width: 50%;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+.MoonImg{
+    object-fit: cover;
+    width: 30%;
+    height: 30%;
+    margin-right: 15vh;
+    box-shadow:  0 4px 8px 0 rgba(10, 10, 10, 0.2), 0 6px 20px 0 rgba(19, 19, 19, 0.19);
+    border-radius: 10px;
+    
+}
+.Multiverse{
+    height: 100vh;
+    width: 100%;
+    display:block;
+    color: aliceblue;
+    background-color: black;
+
+
+}
+
+.Multiverse h1{
+    text-align: center;
+    padding: 70px;
+    font-size: 120px;
+}
+.Multiverse div{
+    display: flex;
+}
+
+.Multiverse article{
+
+    margin: 10vh 25vh 0 9vh;
+    width: 50%;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+.MultiverseImg{
+    object-fit: cover;
+    width: 30%;
+    height: 30%;
+    margin-right: 15vh;
+    box-shadow:  0 4px 8px 0 rgba(10, 10, 10, 0.2), 0 6px 20px 0 rgba(19, 19, 19, 0.19);
+    border-radius: 10px;
+    
+}

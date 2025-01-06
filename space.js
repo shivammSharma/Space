@@ -63,6 +63,8 @@ gsap.from(".blackHole article",{
     delay:.5,
     scrollTrigger: '.blackHole article'
 })
+
+
 loadingAnimation()
 
 loadingAnimation2()
